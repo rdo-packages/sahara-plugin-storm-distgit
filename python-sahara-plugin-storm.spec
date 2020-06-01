@@ -155,3 +155,4 @@ install -p -D -m 644 doc/build/man/*.1 %{buildroot}%{_mandir}/man1/
 
 
 %changelog
+# REMOVEME: error caused by commit http://git.openstack.org/cgit/openstack/sahara-plugin-storm/commit/?id=d9c7835e45a1df9ac3be8b8d0da5937c00da665f
